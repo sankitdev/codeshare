@@ -1,5 +1,5 @@
-import { CodeEditor } from "@/components/TextArea";
+import { Hero } from "@/components/Hero";
 
 export default function Home() {
-  return <CodeEditor />;
+  return <Hero />;
 }
